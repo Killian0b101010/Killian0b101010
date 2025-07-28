@@ -2,11 +2,9 @@
 <h3 align="center"> C Student </h3>
 
 - 🔭 I’m currently working on **Minishell**
-
-- 🌱 I’m currently learning **C**
-
+  
 - 📫 How to reach me **kiteixei@student.42.fr**
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
