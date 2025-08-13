@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Killian</h1>
 <h3 align="center"> C Student </h3>
 
-- 🔭 I’m currently working on **Minishell**
+- 🔭 I’m currently working on **Philo**
   
 - 📫 How to reach me **kiteixei@student.42.fr**
   
